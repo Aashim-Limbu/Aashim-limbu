@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashim-limbu&label=Profile%20views&color=0e75b6&style=flat" alt="aashim-limbu" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **as a Freelancer**
 
 - 🌱 I’m currently learning **Next.js**
 
