@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React,Javascript and C++**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aashim-limbu-265546220/**
+- 📫 How to reach me **https://www.linkedin.com/in/aashim-limbu-265546220**
 
 - ⚡ Fun fact **I am Sleepy**
 
