@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashim-limbu&label=Profile%20views&color=0e75b6&style=flat" alt="aashim-limbu" /> </p>
 
-- 🔭 I’m currently working **as a Freelancer**
+- 🔭 I’m currently working **on Web-RTC and Socket.IO project**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **React,Javascript and C++**
 
