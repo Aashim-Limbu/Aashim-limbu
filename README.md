@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/aashim-limbu**
 
-- ⚡ Motivation factor **Either choose to fight or get blown by the wind**
+- ⚡ Motivation Quote ** Either choose to fight the wind or get blown/carried away by the wind **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
