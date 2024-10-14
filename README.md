@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working **on Web-rtc project and Web-Socket project**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **React,Javascript,TypeScript,Next.JS,Node,Express,CS fundamental**
 
