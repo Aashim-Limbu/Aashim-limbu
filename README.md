@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashim-limbu&label=Profile%20views&color=0e75b6&style=flat" alt="aashim-limbu" /> </p>
 
-- 🔭 I’m currently working **on Web-rtc project and Web-Socket project**
+- 🔭 I’m currently working **on Real time Application**
 
 - 🌱 I’m currently learning **Solidity**
 
