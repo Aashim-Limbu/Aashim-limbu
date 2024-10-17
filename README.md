@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React,Javascript,TypeScript,Next.JS,Node,Express,CS fundamental**
 
-- 📫 How to reach me **https://www.linkedin.com/in/aashim-limbu**
+- 📫 How to reach me **https://www.linkedin.com/in/aashimlimbu**
 
 - ⚡ Motivation Quote ** Either choose to fight the wind or get blown/carried away by the wind **
 
