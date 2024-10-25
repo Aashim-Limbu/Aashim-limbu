@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/aashimlimbu**
 
-- ⚡ Motivation Quote ** Either choose to fight the wind or get blown away by the wind everytime it matters **
+- ⚡ Motivation Quote **Either choose to fight the wind or get blown away by the wind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
