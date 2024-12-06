@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ About Me
-- 🔭 I’m currently working on **Real-Time Applications**
+- 🔭 I’m currently working on **Web 3.0**
 - 🌱 I’m currently learning **Blockchain**
 - 💬 Ask me about **React, JavaScript, TypeScript, Next.js, Node, Express**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aashimlimbu)
